@@ -246,7 +246,7 @@ public class SocialMediaController {
      * It expects a GET request to "/accounts/{account_id}/messages   ".
      *
      * @param ctx the Javalin context object representing the current HTTP request
-     *            and response
+     *            and   response
      */
     private void getMessagesByAccountId(Context ctx) {
         try {
