@@ -243,7 +243,7 @@ public class SocialMediaController {
 
     /**
      * This method retrieves all messages associated with a specific account ID.
-     * It expects a GET request to "/accounts/{account_id}/messages".
+     * It expects a GET request to "/accounts/{account_id}/messages   ".
      *
      * @param ctx the Javalin context object representing the current HTTP request
      *            and response
